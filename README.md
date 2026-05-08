@@ -40,6 +40,20 @@ El Consejo Fiscal Autonomo evaluo el impacto del proyecto:
 - **Efectos de segunda vuelta** (con crecimiento): mejora adicional de 0.41% del PIB
 - **Simplificacion regulatoria**: potencial mejora de 0.17% del PIB
 
+## Fuentes institucionales
+
+El archivo [FUENTES.md](FUENTES.md) contiene el directorio completo de enlaces a organismos oficiales. Las fuentes principales:
+
+| Fuente | Uso |
+|---|---|
+| [Camara — Boletin 18216-05](https://www.camara.cl/legislacion/proyectosdeley/tramitacion.aspx?prmID=18872&prmBOLETIN=18216-05) | Seguimiento legislativo en tiempo real |
+| [CFA — Informes](https://cfachile.cl/publicaciones-del-cfa/informes-del-consejo) | Analisis fiscal independiente |
+| [Banco Central — SIETE](https://si3.bcentral.cl/siete/) | Datos macroeconomicos (PIB, inflacion, empleo) |
+| [DIPRES — Finanzas Publicas](https://www.dipres.gob.cl/598/w3-propertyvalue-25291.html) | Estadisticas fiscales y presupuesto |
+| [INE.STAT](https://stat.ine.cl/?lang=es) | Indicadores de empleo y produccion |
+| [SII — Estadisticas](https://www.sii.cl/estadisticas/) | Recaudacion y datos tributarios |
+| [OCDE — Chile](https://www.oecd.org/en/countries/chile.html) | Comparaciones internacionales |
+
 ## Estructura del repositorio
 
 ```
@@ -48,6 +62,7 @@ boletin-18216-05/
   Presentacion sobre PDL...pdf         # Analisis tecnico del CFA
   README.md                            # Este archivo
   CLAUDE.md                            # Instrucciones para agentes AI
+  FUENTES.md                           # Directorio de fuentes institucionales
   .claude/
     skills/                            # Skills especializadas para analisis
 ```

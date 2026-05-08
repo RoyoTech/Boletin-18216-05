@@ -52,6 +52,20 @@ Los PDFs son la fuente primaria. Toda respuesta sobre el contenido del proyecto 
 - Contexto: situar siempre el analisis en el marco fiscal e institucional chileno
 - Formato: usar tablas para comparaciones numericas, listas para enumeraciones
 
+## Fuentes externas
+
+Consultar `FUENTES.md` para el directorio completo. Fuentes prioritarias para validar datos:
+
+- **Tramitacion**: https://www.camara.cl/legislacion/proyectosdeley/tramitacion.aspx?prmID=18872&prmBOLETIN=18216-05
+- **CFA Informes**: https://cfachile.cl/publicaciones-del-cfa/informes-del-consejo
+- **Banco Central SIETE**: https://si3.bcentral.cl/siete/ (API disponible)
+- **DIPRES Finanzas Publicas**: https://www.dipres.gob.cl/598/w3-propertyvalue-25291.html
+- **INE.STAT**: https://stat.ine.cl/?lang=es
+- **SII Estadisticas**: https://www.sii.cl/estadisticas/
+- **OCDE Chile**: https://www.oecd.org/en/countries/chile.html
+
+Cuando se necesiten datos actualizados de PIB, desempleo, recaudacion o ejecucion presupuestaria, consultar estas fuentes antes de responder con cifras.
+
 ## Skills disponibles
 
 - `analisis-fiscal`: Analizar impacto fiscal de articulos o medidas especificas del proyecto
