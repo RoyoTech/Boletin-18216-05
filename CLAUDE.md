@@ -68,6 +68,7 @@ Cuando se necesiten datos actualizados de PIB, desempleo, recaudacion o ejecucio
 
 ## Skills disponibles
 
+- `experto-boletin`: **Activar al inicio de cada sesion.** Carga el rol completo de experto con identidad, dominios de conocimiento, datos de referencia, fuentes y reglas de conducta
 - `analisis-fiscal`: Analizar impacto fiscal de articulos o medidas especificas del proyecto
 - `comparador-tributario`: Comparar tasas y mecanismos tributarios propuestos vs situacion actual
 - `resumen-articulos`: Generar resumenes estructurados de articulos o titulos del proyecto de ley
