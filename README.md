@@ -61,7 +61,8 @@ boletin-18216-05/
   archivo.pdf                          # Texto completo del proyecto de ley
   Presentacion sobre PDL...pdf         # Analisis tecnico del CFA
   README.md                            # Este archivo
-  CLAUDE.md                            # Instrucciones para agentes AI
+  CLAUDE.md                            # Instrucciones para Claude Code
+  AGENTS.md                            # Guia completa para agentes AI
   FUENTES.md                           # Directorio de fuentes institucionales
   .claude/
     skills/                            # Skills especializadas para analisis
